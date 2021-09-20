@@ -1,2 +1,2 @@
-# SonyLivSample
-Android Localisation Sample App
+# TestSample
+Android Sample App
